@@ -1,2 +1,1 @@
-# CRON-jobs
-possibly treporary
+IWhile I havne't  exaclt yfigueed  out how to get the IAM permsisisons onto GIthUb just yetr, I think there are some prelimianry  beenfits to keeping  daily caching functions seperate  form the `dsyndicate - API`.   THis v iew  miught  mature in time,  but for now I want to migrate the exicsting drafted CRON jobs and implement the additonal one we will need soonish!@
